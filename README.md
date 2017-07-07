@@ -28,7 +28,9 @@ These are my practice code for design pattern and help links, Hope this will hel
 * https://stackoverflow.com/questions/370258/real-world-example-of-the-strategy-pattern
 * http://www.dofactory.com/net/strategy-design-pattern
 
-
+##### Chain of Responsibility
+* http://www.dofactory.com/net/chain-of-responsibility-design-pattern
+* To see this in action, check implementations of the middleware pattern (laravel for php and rack for ruby)
 
 with Love
 
