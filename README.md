@@ -32,6 +32,10 @@ These are my practice code for design pattern and help links, Hope this will hel
 * http://www.dofactory.com/net/chain-of-responsibility-design-pattern
 * To see this in action, check implementations of the middleware pattern (laravel for php and rack for ruby)
 
+##### Observer
+* http://www.dofactory.com/net/observer-design-pattern
+* https://www.quora.com/What-are-some-real-world-uses-of-observer-pattern
+
 with Love
 
 [rehan_manzoor@outlook.com](mailto://rehan_manzoor@outlook.com)
